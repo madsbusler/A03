@@ -2,8 +2,11 @@ In order to understand how to use Git and Github, there are a variety of terms w
 
 Definitions
 GIT: an open source code management software 
+
 Github: a web based version control and collaboration platform for software developers
+
 Repository: A storage location where software packages can be retrieved and installed to a computer
+
 Clone: an exact copy of the source code 
 Commit: A synonym for save; this works in the same way as the save button. 
 Push: Sending your committed changes to a remote repository, like one that is hosted on Github
