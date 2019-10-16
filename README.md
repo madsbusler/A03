@@ -25,3 +25,8 @@ Merge Conflict: happen when you merge branches that have competing commits, and 
 Fetch: pulling all the work done by someone else and all of their branches without merging the information
 
 Remote: a commmon repository that all members use to exchange their changes 
+
+Now that we have all of the definitions, we can understand how to use github. Github is extrememly easy to use; to begin you would create your own account and then create a new repository. This repository name should be the title of the project you are working on. Once you are in the repository you can begin editing the project, making small changes and committing them one at a time instead of making all the changes at once.
+
+Using these definitions above it is very easy to understand how to make a pull request and merge the data from another member's project to your own, making sure there are no areas that will create a merge conflict. 
+
