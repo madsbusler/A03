@@ -1,6 +1,7 @@
 In order to understand how to use Git and Github, there are a variety of terms we need to learn the definitions of. 
 
 Definitions
+
 GIT: an open source code management software 
 
 Github: a web based version control and collaboration platform for software developers
